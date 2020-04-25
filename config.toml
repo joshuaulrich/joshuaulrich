@@ -1,0 +1,25 @@
+baseurl = "https://www.joshuaulrich.com/"
+title = "Joshua Ulrich"
+languageCode = "en-us"
+publishDir = "docs"
+
+theme = [ "beautifulhugo" ]
+
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    identifier = "portfolio"
+    name = "Portfolio"
+    url  = "/portfolio/"
+    weight = 2
+
+[[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url  = "/resume/"
+    weight = 3
+
