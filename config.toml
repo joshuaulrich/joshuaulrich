@@ -5,6 +5,16 @@ publishDir = "docs"
 
 theme = [ "beautifulhugo" ]
 
+[Params]
+  socialShare = true
+
+[Author]
+  email = "josh.m.ulrich@gmail.com"
+  github = "joshuaulrich"
+  twitter = "joshua_ulrich"
+  linkedin = "joshuaulrich"
+  stackoverflow = "users/271616/joshua-ulrich"
+
 [[menu.main]]
     identifier = "about"
     name = "About"
