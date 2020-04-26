@@ -6,7 +6,9 @@ publishDir = "docs"
 theme = [ "beautifulhugo" ]
 
 [Params]
+  homeTitle = "About me"
   socialShare = true
+  since = 2010
 
 [Author]
   email = "josh.m.ulrich@gmail.com"
