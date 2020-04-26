@@ -5,22 +5,72 @@ url: "/resume"
 aliases: [ "/resume.html" ]
 ---
 
-## Summary
+## Professional Profile
 
-More than another productive member of a team; able to increase the
-productivity of my department by finding and using the best tools for
-each project.
+Quantitative analyst who works to uncover the data generating process behind relationships in data, while paying attention to second-order effects of those relationships. Able to synthesize complex patterns into a coherent story for non-technical audience, with an emphasis on business impact. Loves working on the hardest problems with a team of top-performers.
 
-Able to learn quickly and find answers to questions outside my immediate
-expertise. Can investigate complex data / model issues and communicate
-them to management.
+Quantitative programmer with significant and recent experience in R, C/C++, C#, and Java. Loves Linux/Unix and the command line. Proficient at root-cause analysis on complex, distributed systems. Strictly evidence-based when troubleshooting (evaluate how available information might suggest behavior, then validate or disprove). Believes software engineering is about communication. Loves working on open-source projects with people from various cultures, locations, backgrounds, etc.
+
+## Skills Summary
+
+- Time-series manipulation, alignment, cleaning, storage, and modeling (ARIMA, GARCH, Monte-Carlo)
+- Expert in R for data manipulation, analysis, modeling, reporting, and process automation
+- Feature selection using RandomForests, and using xgboost to improve time-series forecasts
+- Automated trading system research, development, evaluation, and production deployment
+- Debian/Ubuntu system administration, including upgrades, RAID/LVM, user/group management, networking
+- Queue-based messaging via Deltix TimeBase, Redis, Aeron, ZeroMQ, nanomsg
+- ElasticSearch and Riemann-dash administration and use for monitoring real-time systems
+
+## Professional Activities
+
+- R Consulting: training, performance profiling, parallelization, modularizing and packaging scripts
+- Organizing Committee Member for the annual R/Finance Conference since 2010
+- Saint Louis R User Group founder, organizer, and presenter since 2011
+- Google Summer of Code project mentor for R since 2012
+- UMSL Economics Department Alumni Board (2010-2014)
+- R package co-author: xts, zoo, quantmod, TTR, DEoptim; contributor: blotter, quantstrat, PerformanceAnalytics
+- Instructor for DataCamp course, *Importing and Managing Financial Data in R*
+
+## Interests
+
+- Playing recreational ice hockey
+- Building and maintaining open-source software
+- Teaching and helping people solve problems (e.g. answering questions on StackOverflow)
+- Mentoring recent university graduates by providing career advice
+- Brewing and drinking fantastic, single-origin coffees
 
 ## Experience
+
+**Senior Quantitative Analyst**\
+[NISA Investment Advisors](https://www.nisa.com)\
+October 2017 - Present
+
+- Design derivative desk electronic trading platform; communicate project vision and roadmap; perform NPV
+analysis; evaluate and on-board vendors; coordinate across teams, including software development, data,
+hardware and networking, trade operations, and project management
+- Analyze characteristics of trend following trading strategies for largest client by replicating and decomposing
+performance of published strategies
+
+**Senior Quantitative Analyst & Programmer**\
+[DV Trading](https://www.dvtrading.co/)\
+August 2013 – October 2017
+
+- Architect, implement, and support proprietary automated futures market-making software in C# and Java
+- Use public and private market data to evaluate strategy performance and infer market participant behavior
+- Use R to research and evaluate strategies, and analyze production trades
+
+**Senior Portfolio Analyst & Trader**\
+[Enterprise Bank & Trust](https://www.enterprisebank.com/)\
+November 2012 – August 2013
+
+- Assist the CIO with developing the investment platform
+- Develop and maintain debt and equity ranking models for individual equity securities
+- Develop internal programs to extend the analytic capabilities of third-party asset allocation software
 
 \
 **Risk Management Consultant**\
 [Wells Fargo Home Mortgage](http://www.wellsfargo.com) - Hedge Research and Analytics\
-August 2010 - Present
+August 2010 - November 2012
 
 - Helped enhance and maintain models and methods to measure market
   risk, primarily interest rate risk associated with hedging of
@@ -125,11 +175,3 @@ June 2002 - December 2003
 - National Association for Business Economics
 - Presented at University Missouri-St. Louis Undergraduate Research
   Symposium
-
-## Interests
-
-- Tactical asset allocation
-- Stock market trading systems
-- Interest rate models
-- Data mining and visualization
-- Racing on Gran Turismo
