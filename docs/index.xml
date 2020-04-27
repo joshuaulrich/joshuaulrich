@@ -6,6 +6,8 @@
     <description>Recent content in About me on Joshua Ulrich</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>josh.m.ulrich@gmail.com</managingEditor>
+    <webMaster>josh.m.ulrich@gmail.com</webMaster>
     <lastBuildDate>Sat, 25 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.joshuaulrich.com/index.xml" rel="self" type="application/rss+xml" />
@@ -15,24 +17,20 @@
       <title>Portfolio</title>
       <link>https://www.joshuaulrich.com/portfolio/</link>
       <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
-      
+      <author>josh.m.ulrich@gmail.com</author>
       <guid>https://www.joshuaulrich.com/portfolio/</guid>
-      <description>Specialties  Programming in R/S-Plus SQL bash scripting some Fortran and C process automation and integration across applications statistical analysis advanced estimation techniques  R Packages Author/co-author of five R packages:
- TTR - Technical Trading Rules - a suite of technical analysis functions opentick - an R API to the opentick databases xts - eXtensible Time Series - a time-based data class that integrates all of the current time-series classes (co-authored with Jeff Ryan) pack - convert binary to/from formats other programs and machines can understand LSPM - an R-based implementation of Ralph Vince&amp;rsquo;s Leverage Space Portfolio Model (co-authored with Soren Macbeth)  Code  npri.</description>
+      <description>Specialties  Decomposing and understanding complex systems, whether they are software, hardware, or business processes. Programming in R, C, C++, C#, Java, SQL, with the ability to easily understand most other programming languages. Statistical analysis, simulation, and optimization. Process automation and integration across applications.  R Packages I&amp;rsquo;ve written several R packages, and contribute to many more. I currently maintain quantmod, TTR, xts, IBrokers, microbenchmark, and pack on CRAN.
+ quantmod - tools for importing, manipulating, and visualizing financial market data (co-authored with Jeff Ryan, maintainer) TTR - a suite of technical analysis functions (author, maintainer) xts - a time-based data class that integrates all of the current time-series classes (co-authored with Jeff Ryan, maintainer) zoo - a data class for ordered indexed observations, particularly for irregular time series (contributor) IBrokers - a pure R implementation of the Interactive Brokers Trader Workstation API (co-authored with Jeff Ryan, maintainer) blotter - portfolio and account transaction infrastructure for trading systems and simulation (contributor) quantstrat - quantitative trading strategy modeling framework (co-author) PerformanceAnalytics - econometric functions for performance and risk analysis of financial instruments or portfolios (contributor) DEoptim - global optimizer via differential evolution (co-author) microbenchmark - accurately measure and compare the execution time of R expressions (maintainer) pack - convert binary to/from formats other programs and machines can understand (author, maintainer) lspm - an R-based implementation of Ralph Vince&amp;rsquo;s Leverage Space Portfolio Model (co-authored with Soren Macbeth, maintainer) opentick - an R API to the opentick databases (author, defunct)  Code  I created the first Dockerfile for rchk (a set of tools that look for memory errors in C source code of R packages).</description>
     </item>
     
     <item>
       <title>Resume</title>
       <link>https://www.joshuaulrich.com/resume/</link>
       <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
-      
+      <author>josh.m.ulrich@gmail.com</author>
       <guid>https://www.joshuaulrich.com/resume/</guid>
-      <description>Summary More than another productive member of a team; able to increase the productivity of my department by finding and using the best tools for each project.
-Able to learn quickly and find answers to questions outside my immediate expertise. Can investigate complex data / model issues and communicate them to management.
-Experience 
-Risk Management Consultant
-Wells Fargo Home Mortgage - Hedge Research and Analytics
-August 2010 - Present</description>
+      <description>Professional Profile Quantitative analyst who works to uncover the data generating process behind relationships in data, while paying attention to second-order effects of those relationships. Able to synthesize complex patterns into a coherent story for non-technical audience, with an emphasis on business impact. Loves working on the hardest problems with a team of top-performers.
+Quantitative programmer with significant and recent experience in R, C/C++, C#, and Java. Loves Linux/Unix and the command line.</description>
     </item>
     
   </channel>
