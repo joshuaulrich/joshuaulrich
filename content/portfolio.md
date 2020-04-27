@@ -7,17 +7,16 @@ aliases: [ "/portfolio.html" ]
 
 ### Specialties
 
-* Programming in R/S-Plus
-* SQL
-* bash scripting
-* some Fortran and C
-* process automation and integration across applications
-* statistical analysis
-* advanced estimation techniques
+* Decomposing and understanding complex systems, whether they are software,
+  hardware, or business processes.
+* Programming in R, C, C++, C#, Java, SQL, with the ability to easily
+  understand most other programming languages.
+* Statistical analysis, simulation, and optimization.
+* Process automation and integration across applications.
 
 ### R Packages
 
-I've written and contributed to maintain of many [R](https://www.r-project.org) packages. I currently maintain several packages on [CRAN](https://cran.r-project.org): quantmod, TTR, xts, IBrokers, microbenchmark, and pack.
+I've written several [R](https://www.r-project.org) packages, and contribute to many more. I currently maintain quantmod, TTR, xts, IBrokers, microbenchmark, and pack on [CRAN](https://cran.r-project.org).
 
 * [quantmod](https://cran.r-project.org/package=quantmod) - tools for importing, manipulating, and visualizing financial market data (co-authored with [Jeff Ryan](http://lemnica.com/), maintainer)
 * [TTR](https://cran.r-project.org/package=TTR) - a suite of technical analysis functions (author, maintainer)
@@ -38,11 +37,6 @@ I've written and contributed to maintain of many [R](https://www.r-project.org) 
 * I created the first [Dockerfile for rchk](https://github.com/joshuaulrich/rchk-docker) (a set of tools that look for memory errors in C source code of R packages). My Dockerfil was the basis for [rhub's](https://builder.r-hub.io/) version in [ubuntu-rchk](https://github.com/r-hub/rhub-linux-builders/commit/11ca3852ddce5d66627b6a3f88259681f81ea97e#diff-ab71b71c918ecd93559c25f1a3161344)
 * [npri.c](https://gist.github.com/joshuaulrich/1271633) - An adaptation of code given in a [MSDN article](http://msdn.microsoft.com/en-us/library/aa302371.aspx) that provides the **i'th** permutation of **n** things taken **r** at a time. Unlike the MSDN article, this code allows for **n** != **r**.
 
-### Blogs
+### Blog
 
 * [FOSS Trading](https://www.fosstrading.com) - Trading with Free Open Source Software
-* [Quantitative Contemplations](http://quantemplation.blogspot.com/) - Economic, Financial, and Personal Finance Analysis and Commentary
-
-### Presentations
-
-* [Fast and Flexible Technical Analysis with TTR](https://www.joshuaulrich.com/TTR_R-Finance_2010.pdf) - R/Finance 2010: Applied Finance with R
