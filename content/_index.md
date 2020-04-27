@@ -4,6 +4,10 @@ date: 2020-04-25
 url: "/"
 ---
 
-My formal education is in economics. My programming skills and computer knowledge are self-taught. I have an uncanny ability to find answers to questions outside my immediate expertise. This allows me to be more than another productive member of a team; it enables me to increase the productivity of all my co-workers by finding better ways to complete every project.
+Hi, I'm Josh. I'm passionate about learning, building, and fixing things. I love helping people solve hard problems when they get stuck. I'm especially drawn to problems that multiple people have tried to solve, but the results aren't satisfactory. The more difficult and business-critical the problem is, the better.
 
-I have a deep love of learning and I enjoy building / fixing all kinds of things -- software, computer hardware, engines, etc.
+I'm a programming language polyglot. I speak languages like C/C++, Java, C#, Fortran, SAS, Stata, Matlab, R, Python, and SQL.
+
+I'm also able to speak the language of many specialists in several disciplines. I can discuss statistical modeling with data scientists, software architecture with information technology professionals, and business strategy with executives.
+
+I'm interested in market microstructure, order management and execution, asset allocation/optimization, algorithmic trading systems, interest rate models, and high-performance computing.
