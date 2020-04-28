@@ -69,7 +69,7 @@ November 2012 – August 2013
 
 \
 **Risk Management Consultant**\
-[Wells Fargo Home Mortgage](http://www.wellsfargo.com) - Hedge Research and Analytics\
+[Wells Fargo Home Mortgage](https://www.wellsfargo.com) - Hedge Research and Analytics\
 August 2010 - November 2012
 
 - Helped enhance and maintain models and methods to measure market
@@ -84,11 +84,11 @@ August 2010 - November 2012
 
 \
 **Risk Management Consultant**\
-[Wells Fargo Home Mortgage](http://www.wellsfargo.com) - Whole Loan Valuation and
+[Wells Fargo Home Mortgage](https://www.wellsfargo.com) - Whole Loan Valuation and
 Analytics\
 January 2009 - August 2010
 
-- Helped implement the [HAMP](www.hmpadmin.com) model in Excel/VBA,
+- Helped implement the [HAMP](https://www.hmpadmin.com) model in Excel/VBA,
   including providing assistance to fellow servicers. Suggested a
   company-wide, web-based solution. Assisted in the deployment of said
   solution.
@@ -104,7 +104,7 @@ January 2009 - August 2010
 
 \
 **Risk Management Consultant**\
-[Wells Fargo Home Mortgage](http://www.wellsfargo.com/) - Servicing Portfolio Management\
+[Wells Fargo Home Mortgage](https://www.wellsfargo.com/) - Servicing Portfolio Management\
 January 2006 - December 2008
 
 - Designed customer retention reporting infrastructure, analyzed
@@ -115,16 +115,16 @@ January 2006 - December 2008
   to refinance.
 - Enhanced short-term prepayment model accuracy via outlier detection
   and removal.
-- Used [R](http://www.r-project.org/) to decompose interest rate model
+- Used [R](https://www.r-project.org/) to decompose interest rate model
   performance from overall prepayment model performance.
 - Wrote a C++ plug-in to greatly improve
-  [Stata](http://www.stata.com/) aggregation speeds.
+  [Stata](https://www.stata.com/) aggregation speeds.
 - Enhanced and automated production processes; making them more
   flexible, robust, and easier to run/debug.
 
 \
 **Research Analyst**\
-[Federal Reserve Bank of St. Louis](http://research.stlouisfed.org/)\
+[Federal Reserve Bank of St. Louis](https://research.stlouisfed.org/)\
 January 2004 - January 2006
 
 - Contributed to memos and presentations on current economic /
@@ -132,19 +132,19 @@ January 2004 - January 2006
   and Federal Reserve publications.
 - Co-authored \"The Adaptive Markets Hypothesis: Evidence from the
   Foreign Exchange Market\" Forthcoming in the [Journal of Financial
-  and Quantitative Analysis](http://depts.washington.edu/jfqa/).
+  and Quantitative Analysis](https://depts.washington.edu/jfqa/).
 - Manipulated and summarized high-frequency options, futures, and
-  foreign exchange data in [SAS](http://www.sasm.com/) and
-  [GAUSS](http://www.aptech.com/).
-- Used [R](http://www.r-project.org/) to 1) estimate implied forward
+  foreign exchange data in [SAS](https://www.sas.com/) and
+  [GAUSS](https://www.aptech.com/).
+- Used [R](https://www.r-project.org/) to 1) estimate implied forward
   rates, and 2) determine optimal regression lag structure.
 - Acquired and manipulated data from multiple sources (e.g.
-  [Haver](http://www.haver.com), [CME](http://www.cmegroup.com),
-  [TickData](http://www.tickdata.com)).
+  [Haver](http://www.haver.com), [CME](https://www.cmegroup.com),
+  [TickData](https://www.tickdata.com)).
 
 \
 **Portfolio Manager Assistant**\
-[TIAA-CREF Trust Company](http://www.tiaa-cref.org/)\
+[TIAA-CREF Trust Company](https://www.tiaa-cref.org/)\
 June 2002 - December 2003
 
 - Used Excel/VB to include non-traditional asset classes in asset
@@ -157,7 +157,7 @@ June 2002 - December 2003
 ## Education
 \
 **B.S. / M.A., Economics**\
-[University of Missouri-Saint Louis](http://www.umsl.edu)\
+[University of Missouri-Saint Louis](https://www.umsl.edu)\
 1999 - 2005
 
 **Mathematics Minor** - calculus series, linear algebra\
