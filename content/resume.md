@@ -15,27 +15,32 @@ Quantitative programmer with significant and recent experience in R, C/C++, C#, 
 
 - Time-series manipulation, alignment, cleaning, storage, and modeling (ARIMA, GARCH, Monte-Carlo)
 - Expert in R for data manipulation, analysis, modeling, reporting, and process automation
-- Feature selection using RandomForests, and using xgboost to improve time-series forecasts
+- Feature selection using [RandomForests](https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm), and using [xgboost](https://xgboost.ai/) to improve time-series forecasts
 - Automated trading system research, development, evaluation, and production deployment
 - Debian/Ubuntu system administration, including upgrades, RAID/LVM, user/group management, networking
-- Queue-based messaging via Deltix TimeBase, Redis, Aeron, ZeroMQ, nanomsg
-- ElasticSearch and Riemann-dash administration and use for monitoring real-time systems
+- Queue-based messaging via [Deltix](https://www.deltixlab.com/) [TimeBase](https://www.deltixlab.com/products/timebase/), [Redis](https://redis.io/), [Aeron](https://github.com/real-logic/aeron/blob/master/README.md), [ZeroMQ](https://zeromq.org/), [nanomsg](https://nanomsg.org/)
+- [ElasticSearch](https://www.elastic.co/) and [Riemann-dash](http://riemann.io/dashboard.html) administration and use for monitoring real-time systems
 
 ## Professional Activities
 
 - R Consulting: training, performance profiling, parallelization, modularizing and packaging scripts
-- Organizing Committee Member for the annual R/Finance Conference since 2010
-- Saint Louis R User Group founder, organizer, and presenter since 2011
-- Google Summer of Code project mentor for R since 2012
+- Organizing Committee Member for the annual [R/Finance Conference](https://www.rinfinance.com/) since 2010
+- [Saint Louis R User Group](https://www.meetup.com/Saint-Louis-RUG/) founder, organizer, and presenter since 2011
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) project mentor for R since 2012
 - UMSL Economics Department Alumni Board (2010-2014)
-- R package co-author: xts, zoo, quantmod, TTR, DEoptim; contributor: blotter, quantstrat, PerformanceAnalytics
-- Instructor for DataCamp course, *Importing and Managing Financial Data in R*
+- R package (co-)author: [xts](https://cran.r-project.org/package=xts), [zoo](https://cran.r-project.org/package=zoo), [quantmod](https://cran.r-project.org/package=quantmod), [TTR](https://cran.r-project.org/package=TTR), [pack](https://cran.r-project.org/package=pack), [DEoptim](https://cran.r-project.org/package=DEoptim), [microbenchmark](https://cran.r-project.org/package=microbenchmark), [lspm](https://github.com/joshuaulrich/lspm), [IBrokers](https://cran.r-project.org/package=IBrokers); contributor: [blotter](https://github.com/braverock/blotter), [quantstrat](https://github.com/braverock/quantstrat), [PerformanceAnalytics](https://cran.r-project.org/package=PerformanceAnalytics)
+
+
+
+
+
+- Instructor for [DataCamp](https://www.datacamp.com/courses/importing-and-managing-financial-data-in-r) course, [*Importing and Managing Financial Data in R*](https://www.datacamp.com/courses/importing-and-managing-financial-data-in-r)
 
 ## Interests
 
 - Playing recreational ice hockey
 - Building and maintaining open-source software
-- Teaching and helping people solve problems (e.g. answering questions on StackOverflow)
+- Teaching and helping people solve problems (e.g. answering questions on [StackOverflow](https://stackoverflow.com/)
 - Mentoring recent university graduates by providing career advice
 - Brewing and drinking fantastic, single-origin coffees
 
