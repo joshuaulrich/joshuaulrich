@@ -35,6 +35,7 @@ I've written several [R](https://www.r-project.org) packages, and contribute to 
 ### Code
 
 * I created the first [Dockerfile for rchk](https://github.com/joshuaulrich/rchk-docker) (a set of tools that look for memory errors in C source code of R packages). My Dockerfile was the basis for [rhub's](https://builder.r-hub.io/) version in [ubuntu-rchk](https://github.com/r-hub/rhub-linux-builders/commit/11ca3852ddce5d66627b6a3f88259681f81ea97e#diff-ab71b71c918ecd93559c25f1a3161344)
+* [parse_crsp_file.awk](https://gist.github.com/joshuaulrich/336ece2a1e6af8474b90c8cdfbf7a14e) - An [awk](https://en.wikipedia.org/wiki/AWK) script that parses a single [CRSP](http://www.crsp.org/) data file (with all 13,000+ company's data) into one file per ticker symbol. This could process each year of CRSP tick data into separate files in about 10 minutes.
 * [npri.c](https://gist.github.com/joshuaulrich/1271633) - An adaptation of code given in a [MSDN article](http://msdn.microsoft.com/en-us/library/aa302371.aspx) that provides the **i'th** permutation of **n** things taken **r** at a time. Unlike the MSDN article, this code allows for **n** != **r**.
 
 ### Blog
