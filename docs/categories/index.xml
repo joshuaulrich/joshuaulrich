@@ -7,10 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>josh.m.ulrich@gmail.com</managingEditor>
-    <webMaster>josh.m.ulrich@gmail.com</webMaster>
-    
-	<atom:link href="https://www.joshuaulrich.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <webMaster>josh.m.ulrich@gmail.com</webMaster><atom:link href="https://www.joshuaulrich.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
