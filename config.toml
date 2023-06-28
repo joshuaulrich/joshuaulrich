@@ -4,6 +4,7 @@ languageCode = "en-us"
 publishDir = "docs"
 
 theme = [ "beautifulhugo" ]
+googleAnalytics = "G-02NEF26L3P"
 
 [Params]
   homeTitle = "About me"
